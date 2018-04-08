@@ -233,6 +233,7 @@ Table of contents:
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application.
 * [kasperlewau/angular-bind-notifier](https://github.com/kasperlewau/angular-bind-notifier) - Low $watch count namespaced AngularJS bindings, i.e. refreshment of one-way binds.
 * [Aqu1nt/ng-next](https://github.com/Aqu1nt/ng-next) - A very simple and elegant way to use AngularJS 1.x with ES6 / ES7.
+* [Hackr.io/curated-angular-resources](https://hackr.io/tutorials/learn-angular) - A curated collection of Angular Resources
 
 ## License
 
